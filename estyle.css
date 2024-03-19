@@ -1,0 +1,19 @@
+body{background-color: gold;
+    color: navy; 
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    text-align: center;
+}
+ 
+.imagem-cabecario{
+ width: 500px;;
+}
+.títulocabeçario{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 100px 0 ;
+    font-size:  40px; ;
+}
