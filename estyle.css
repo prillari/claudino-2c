@@ -32,6 +32,14 @@ body{background-color:black;
     font-size: 24px;
 }
 .escola-imagem{
-    width: 20%;
+    width: 300%;
 
 }
+.escola
+{background-image: linear-gradient(blue, red);
+color: wheat ;
+display: flex ;
+justify-content: center;
+align-items: center;
+padding: 24px, 0;}
+
